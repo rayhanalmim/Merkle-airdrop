@@ -276,7 +276,3 @@ To run code formatting:
 ```
 forge fmt
 ```
-
-# Thank you!
-
-If you appreciated this, please follow [Cyfrin Updraft!](https://x.com/CyfrinUpdraft)
