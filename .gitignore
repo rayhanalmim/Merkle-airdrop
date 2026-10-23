@@ -12,6 +12,7 @@ out/
 docs/
 
 # Dotenv file
+.env
 
 .keystore
 
@@ -20,5 +21,3 @@ docs/
 zkout/
 signature.txt
 
-config.bat
-node_modules
